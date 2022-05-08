@@ -4,7 +4,7 @@ from multiprocessing.pool import ThreadPool
 print("""\u001b[31m
 Script by deluvsushi
 Github : https://github.com/deluvsushi""")
-print(figlet_format("aminospamkilla", font="small"))
+print(figlet_format("13MINXZPXMK1LLA", font="small"))
 client = amino.Client()
 email = input("-- Email::: ")
 password = input("-- Password::: ")
