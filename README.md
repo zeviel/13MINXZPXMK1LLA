@@ -1,4 +1,4 @@
-# AminoSpamKilla
+# 13MINXZPXMK1LLA
 Spam bot for amino that uses multiprocessing module 
 
 ## Pydroid
