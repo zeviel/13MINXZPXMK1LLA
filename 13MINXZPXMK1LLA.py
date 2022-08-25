@@ -2,8 +2,8 @@ import amino
 from pyfiglet import figlet_format
 from multiprocessing.pool import ThreadPool
 print("""\u001b[31m
-Script by deluvsushi
-Github : https://github.com/deluvsushi""")
+Script by zeviel
+Github : https://github.com/zeviel""")
 print(figlet_format("13MINXZPXMK1LLA", font="small"))
 client = amino.Client()
 email = input("-- Email::: ")
